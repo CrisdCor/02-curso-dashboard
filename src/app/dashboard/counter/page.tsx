@@ -1,3 +1,4 @@
+
 import { CartCounter } from "@/shopping-cart/components/CartCounter";
 import { Metadata } from "next";
 
